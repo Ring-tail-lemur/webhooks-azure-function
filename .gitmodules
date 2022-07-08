@@ -1,0 +1,3 @@
+[submodule "azure-function-github-webhook"]
+	path = azure-function-github-webhook
+	url = https://github.com/vidigummy/azure-function-github-webhook.git
